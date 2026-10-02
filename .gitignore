@@ -1,0 +1,12 @@
+/config.php
+/vendor/
+/.test-data/
+/backups/
+/.etiquetas-managed
+.env
+.env.*
+!.env.example
+*.log
+*.sql.gz
+*.dump
+.DS_Store
